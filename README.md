@@ -1,3 +1,1 @@
-# Links
-All social media links
-link: https://discoveringrohit.github.io/Links/
+# Links: https://discoveringrohit.github.io/Links/
